@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://changmoomoon.me',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
+  title: 'Changmoo Moon',
+  subtitle: '개발,개발자,벡엔드,프론트엔드,자료구조,알고리즘,리액트,자바,스프링',
+  copyright: '(ɔ) All wrongs reversed',
+  disqusShortname: 'moonchangmoo',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -19,25 +19,25 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Moon Changmoo',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '퇴사하고 학교 다니면서 다시 생각해보니 개발이 재밌는 것 같습니다.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'public.stevemoon@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'ChangmooMoon',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'changmoomoon',
+      instagram: '25moonflower/',
       line: '',
       gitlab: '',
       weibo: '',
