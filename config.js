@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://changmoomoon.me',
-  pathPrefix: '/',
-  title: 'Changmoo Moon',
-  subtitle: '개발,개발자,벡엔드,프론트엔드,자료구조,알고리즘,리액트,자바,스프링',
+  url: 'https://moonchangmoo.github.io',
+  pathPrefix: '',
+  title: 'Changmoo Moon 개발블로',
+  subtitle: '벡엔드,프론트엔드,자료구조,알고리즘,리액트,자바,스프링',
   copyright: '(ɔ) All wrongs reversed',
   disqusShortname: 'moonchangmoo',
   postsPerPage: 4,
